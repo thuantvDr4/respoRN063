@@ -2,67 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4ca036-33b2-4a47-8d98-36267133830f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/back_ios.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/bigPlus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/done.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/down-arrow-fill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/down_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/edit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/eye_close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/eye_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/globe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_16Close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_16Filter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_24Back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/loading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/nonData.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/rank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/tick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/videoFile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/x_circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/nav/stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/sences/Detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/home/sences/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rootRoute/Routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rootRoute/optionHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rootRoute/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rootRoute/routeNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/fingerID.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/nav/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Manifest.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/respoRN063.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/respoRN063/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063/AppDelegate.m" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/respoRN063/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/sences/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sences/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rootRoute/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/rootRoute/Routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rootRoute/routeNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/rootRoute/routeNames.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -79,110 +41,61 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="16" />
+          <entry key="js" value="24" />
           <entry key="json" value="5" />
+          <entry key="plist" value="1" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="16" />
+          <entry key="JavaScript" value="24" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="1817" />
+          <entry key="js" value="2726" />
           <entry key="json" value="11" />
+          <entry key="plist" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="1817" />
+          <entry key="JavaScript" value="2726" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="1" />
+          <entry key="ESLintLanguageService" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
+        <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+            <state relative-caret-position="897">
+              <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#40#71#0" expanded="true" />
+                <element signature="e#10#58#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="155" />
-              <folding>
-                <element signature="e#21#47#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#10#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rootRoute/optionHeader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -199,16 +112,21 @@
         <option value="$PROJECT_DIR$/src/Sences/home/Detail.js" />
         <option value="$PROJECT_DIR$/src/rootRoute/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/assets/index.js" />
         <option value="$PROJECT_DIR$/src/Sences/home/nav/stack.js" />
         <option value="$PROJECT_DIR$/src/Sences/home/sences/Home.js" />
         <option value="$PROJECT_DIR$/src/Sences/home/sences/Detail.js" />
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/src/pages/home/sences/Detail.js" />
-        <option value="$PROJECT_DIR$/src/pages/home/sences/Home.js" />
-        <option value="$PROJECT_DIR$/src/rootRoute/routeNames.js" />
         <option value="$PROJECT_DIR$/src/rootRoute/optionHeader.js" />
         <option value="$PROJECT_DIR$/src/rootRoute/Routes.js" />
+        <option value="$PROJECT_DIR$/ios/respoRN063/Info.plist" />
+        <option value="$PROJECT_DIR$/src/assets/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js" />
+        <option value="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/rootRoute/routeNames.js" />
+        <option value="$PROJECT_DIR$/src/pages/biometrics/nav/stack.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/Home.js" />
+        <option value="$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js" />
       </list>
     </option>
   </component>
@@ -254,7 +172,25 @@
             <path>
               <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
@@ -267,15 +203,38 @@
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
               <item name="nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
+              <item name="sence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="sences" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,12 +254,14 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/pages" />
-      <recent name="$PROJECT_DIR$/src/assets" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Sences/home/sences" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images/public" />
+      <recent name="$PROJECT_DIR$/android" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -326,24 +287,20 @@
       <option name="presentableId" value="Default" />
       <updated>1611540269649</updated>
       <workItem from="1611540270775" duration="15374000" />
+      <workItem from="1611632099179" duration="4936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15374000" />
+    <option name="totallyTimeSpent" value="20310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1441" height="974" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32906976" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -351,6 +308,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -363,9 +324,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/Nav.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/Nav.js" />
     <entry file="file://$PROJECT_DIR$/src/rootRoute/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -383,90 +342,32 @@
     <entry file="file://$PROJECT_DIR$/src/assets/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#10#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/stack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Detail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#10#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Home.js" />
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/stack.js" />
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Detail.js" />
     <entry file="file://$PROJECT_DIR$/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="e#115#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#10#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="155" />
+        <state relative-caret-position="179">
+          <caret line="15" column="14" lean-forward="true" selection-end-line="33" />
           <folding>
             <element signature="e#21#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="42" column="22" lean-forward="true" selection-end-line="54" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -483,11 +384,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+        <state relative-caret-position="452">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#40#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ios/respoRN063/Info.plist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="69" column="89" selection-start-line="69" selection-start-column="89" selection-end-line="69" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="71" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/nav/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding>
+            <element signature="e#21#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#10#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#10#58#0" expanded="true" />
           </folding>
         </state>
       </provider>

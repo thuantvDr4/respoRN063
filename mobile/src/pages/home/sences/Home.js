@@ -28,13 +28,43 @@ const HomePage =()=> {
         })
     }
 
+    function gotoBiometric() {
+        navigation.navigate(routeNames.BIOMETRIC_STACK,{
+            screen: routeNames.BIOMETRIC_PAGE,
+            params: {
+                itemID: 100
+            }
+        })
+    }
+
+    function gotoFingerPage() {
+        navigation.navigate(routeNames.BIOMETRIC_STACK,{
+            screen: routeNames.FINGER_PAGE,
+            params: {
+                itemID: 200
+            }
+        })
+    }
+
+
     return(
         <View>
-            <Text>{'Home Page'}</Text>
+            <View  style={{height: 20}}/>
             <Button
                 onPress={gotoDetail}
             title={'goto detail'}
             />
+            <View  style={{height: 20}}/>
+            <Button
+                onPress={gotoBiometric}
+                title={'goto Biometric'}
+            />
+            <View  style={{height: 20}}/>
+            <Button
+                onPress={gotoFingerPage}
+                title={'goto fingerPage'}
+            />
+
         </View>
     )
 }

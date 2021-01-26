@@ -13,6 +13,7 @@ import setOptionHeader, {headerConfig, nonHeader} from './optionHeader';
 import homeStack from '../pages/home/nav/stack';
 import homePage from "../pages/home/sences/Home";
 import detailPage from "../pages/home/sences/Detail";
+import biometricStack from '../pages/biometrics/nav/stack';
 
 
 
@@ -20,7 +21,7 @@ const stackApp =  createStackNavigator();
 
 // Config for stack - transition
 const stack_conf = {
-    mode: Platform.OS === 'ios' ? 'modal' : 'card', // mode = modal thì move bottom -> top | card = move right -> left
+    mode: Platform.OS === 'ios' ? 'card' : 'card', // mode = modal thì move bottom -> top | card = move right -> left
     headerMode: 'float',
 };
 
@@ -48,7 +49,7 @@ const Routes =()=> {
 
     return(
         <NavigationContainer linking={deepLinking}>
-            <stackApp.Navigator initialRouteName={routeNames.HOME_STACK}
+            <stackApp.Navigator initialRouteName={routeNames.HOME_PAGE}
                                 screenOptions={({ navigation, route }) => headerConfig({ navigation, route })}
                                 {...stack_conf}
             >
@@ -56,6 +57,9 @@ const Routes =()=> {
                 {/*<stackApp.Screen name={routeNames.HOME_STACK} component={homeStack} options={nonHeader}/>*/}
                 <stackApp.Screen name={routeNames.HOME_PAGE} component={homePage}  options={({ navigation, route }) => headerConfig({ navigation, route })}/>
                 <stackApp.Screen name={routeNames.DETAIL_PAGE} component={detailPage} options={({ navigation, route }) => headerConfig({ navigation, route })}  />
+
+                <stackApp.Screen name={routeNames.BIOMETRIC_STACK} component={biometricStack} options={nonHeader}/>
+
             </stackApp.Navigator>
         </NavigationContainer>
     )

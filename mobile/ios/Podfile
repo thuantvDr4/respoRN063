@@ -8,6 +8,10 @@ target 'respoRN063' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'TouchID', :path => '../node_modules/react-native-touch-id'
+
+  pod 'react-native-fingerprint-scanner', :path => '../node_modules/react-native-fingerprint-scanner'
+
   target 'respoRN063Tests' do
     inherit! :complete
     # Pods for testing
