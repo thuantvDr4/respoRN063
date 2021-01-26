@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4ca036-33b2-4a47-8d98-36267133830f" name="Default Changelist" comment="" />
+    <list default="true" id="bc4ca036-33b2-4a47-8d98-36267133830f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/back_ios.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/bigPlus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/done.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/down-arrow-fill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/down_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/eye_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/eye_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/globe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_16Close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_16Filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/ic_24Back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/loading.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/nonData.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/rank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/videoFile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/public/x_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/nav/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/sences/Detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/sences/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rootRoute/Routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rootRoute/optionHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rootRoute/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rootRoute/routeNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Manifest.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/respoRN063.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/respoRN063/AppDelegate.m" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063/AppDelegate.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/respoRN063/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,14 +78,139 @@
     <session id="1261841036">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="16" />
+          <entry key="json" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="5" />
+          <entry key="JavaScript" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="1817" />
+          <entry key="json" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="1817" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
     </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#40#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="155" />
+              <folding>
+                <element signature="e#21#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#10#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rootRoute/optionHeader.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Sences/home/Home.js" />
+        <option value="$PROJECT_DIR$/src/Sences/home/Detail.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/package.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/assets/index.js" />
+        <option value="$PROJECT_DIR$/src/Sences/home/nav/stack.js" />
+        <option value="$PROJECT_DIR$/src/Sences/home/sences/Home.js" />
+        <option value="$PROJECT_DIR$/src/Sences/home/sences/Detail.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/Detail.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/Home.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/routeNames.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/optionHeader.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/Routes.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -38,6 +226,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/src/assets/package.json" />
+      <path value="$PROJECT_DIR$/src/rootRoute/package.json" />
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
@@ -45,23 +235,73 @@
     <option name="width" value="1441" />
     <option name="height" value="974" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Sences/home/sences" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,15 +325,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611540269649</updated>
-      <workItem from="1611540270775" duration="255000" />
+      <workItem from="1611540270775" duration="15374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255000" />
+    <option name="totallyTimeSpent" value="15374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1441" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
@@ -120,6 +361,137 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/Nav.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#10#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#21#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sences/home/sences/Detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#10#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#115#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#10#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="155" />
+          <folding>
+            <element signature="e#21#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/optionHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="52" column="47" lean-forward="true" selection-start-line="52" selection-start-column="47" selection-end-line="52" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#40#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
