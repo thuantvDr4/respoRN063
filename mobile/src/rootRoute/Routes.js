@@ -14,6 +14,7 @@ import homeStack from '../pages/home/nav/stack';
 import homePage from "../pages/home/sences/Home";
 import detailPage from "../pages/home/sences/Detail";
 import biometricStack from '../pages/biometrics/nav/stack';
+import keyChainStack from '../pages/keyChain/nav/stack';
 
 
 
@@ -59,6 +60,9 @@ const Routes =()=> {
                 <stackApp.Screen name={routeNames.DETAIL_PAGE} component={detailPage} options={({ navigation, route }) => headerConfig({ navigation, route })}  />
 
                 <stackApp.Screen name={routeNames.BIOMETRIC_STACK} component={biometricStack} options={nonHeader}/>
+                <stackApp.Screen name={routeNames.HOME_STACK} component={homeStack} options={nonHeader}/>
+
+                <stackApp.Screen name={routeNames.KEYCHAIN_STACK} component={keyChainStack} options={nonHeader}/>
 
             </stackApp.Navigator>
         </NavigationContainer>

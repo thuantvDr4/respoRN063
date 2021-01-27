@@ -46,6 +46,27 @@ const HomePage =()=> {
         })
     }
 
+    /*
+    * gotoKeyChain
+    * */
+    function gotoKeyChain() {
+        navigation.navigate(routeNames.KEYCHAIN_STACK,{
+            screen: routeNames.KEYCHAIN_SCREEN,
+            params: {
+                itemID: 300
+            }
+        })
+    }
+
+    function gotoKeyChainEx() {
+        navigation.navigate(routeNames.KEYCHAIN_STACK,{
+            screen: routeNames.KEYCHAIN_EXAMPLE_PAGE,
+            params: {
+                itemID: 300
+            }
+        })
+    }
+
 
     return(
         <View>
@@ -63,6 +84,18 @@ const HomePage =()=> {
             <Button
                 onPress={gotoFingerPage}
                 title={'goto fingerPage'}
+            />
+
+            <View  style={{height: 20}}/>
+            <Button
+                onPress={gotoKeyChain}
+                title={'goto KeyChain'}
+            />
+
+            <View  style={{height: 20}}/>
+            <Button
+                onPress={gotoKeyChainEx}
+                title={'goto KeyChainEx'}
             />
 
         </View>

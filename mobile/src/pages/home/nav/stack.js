@@ -7,6 +7,7 @@ import {createStackNavigator, HeaderBackButton} from '@react-navigation/stack';
 import {routeNames} from 'app-route/routeNames';
 import homePage from '../sences/Home';
 import detailPage from '../sences/Detail';
+import keyChainPage from '../sences/KeyChain';
 import setOptionHeader, {headerConfig, nonHeader} from '../../../rootRoute/optionHeader';
 
 //
@@ -24,9 +25,8 @@ const stack = createStackNavigator();
 * */
 const stackHome =()=>{
     return(
-        <stack.Navigator initialRouteName={routeNames.HOME_PAGE} >
-            <stack.Screen name={routeNames.HOME_PAGE} component={homePage}  options={({ navigation, route }) => headerConfig({ navigation, route })}/>
-            <stack.Screen name={routeNames.DETAIL_PAGE} component={detailPage} options={({ navigation, route }) => headerConfig({ navigation, route })}  />
+        <stack.Navigator initialRouteName={routeNames.KEYCHAIN_PAGE} >
+            <stack.Screen name={routeNames.KEYCHAIN_PAGE} component={keyChainPage}  options={({ navigation, route }) => headerConfig({ navigation, route })}/>
         </stack.Navigator>
     )
 }

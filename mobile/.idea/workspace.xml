@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc4ca036-33b2-4a47-8d98-36267133830f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/public/fingerID.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/nav/stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/sences/KeyChain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/keyChain/nav/stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/keyChain/sence/KeyChain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/keyChain/sence/KeyChainExample.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Manifest.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests-acknowledgements.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-respoRN063Tests/Pods-respoRN063-respoRN063Tests.release.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOS/Pods-respoRN063-tvOS.release.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063-tvOSTests/Pods-respoRN063-tvOSTests.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063-acknowledgements.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.debug.xcconfig" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-respoRN063/Pods-respoRN063.release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/respoRN063/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/respoRN063/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/home/nav/stack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/nav/stack.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/home/sences/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home/sences/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rootRoute/Routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/rootRoute/Routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/rootRoute/routeNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/rootRoute/routeNames.js" afterDir="false" />
@@ -40,14 +42,14 @@
     <session id="1261841036">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="24" />
+          <entry key="js" value="39" />
           <entry key="json" value="5" />
           <entry key="plist" value="1" />
           <entry key="properties" value="1" />
@@ -57,14 +59,14 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="5" />
-          <entry key="JavaScript" value="24" />
+          <entry key="JavaScript" value="39" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="2726" />
+          <entry key="js" value="4307" />
           <entry key="json" value="11" />
           <entry key="plist" value="1" />
           <entry key="xml" value="2" />
@@ -73,28 +75,69 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="11" />
-          <entry key="JavaScript" value="2726" />
+          <entry key="JavaScript" value="4307" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="2" />
+          <entry key="ESLintLanguageService" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+            <state relative-caret-position="1062">
+              <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#10#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/keyChain/sence/KeyChainExample.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#2376#3095#0" />
+                <element signature="e#3115#3449#0" />
+                <element signature="e#3477#4087#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/keyChain/sence/KeyChain.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
+              <folding>
+                <element signature="e#10#59#0" expanded="true" />
+                <element signature="e#1712#2355#0" />
+                <element signature="e#2597#3240#0" />
+                <element signature="e#4652#6057#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/keyChain/nav/stack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+              <folding>
+                <element signature="e#21#47#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -118,15 +161,20 @@
         <option value="$PROJECT_DIR$/App.js" />
         <option value="$PROJECT_DIR$/src/pages/home/sences/Detail.js" />
         <option value="$PROJECT_DIR$/src/rootRoute/optionHeader.js" />
-        <option value="$PROJECT_DIR$/src/rootRoute/Routes.js" />
         <option value="$PROJECT_DIR$/ios/respoRN063/Info.plist" />
         <option value="$PROJECT_DIR$/src/assets/index.js" />
         <option value="$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js" />
         <option value="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/rootRoute/routeNames.js" />
         <option value="$PROJECT_DIR$/src/pages/biometrics/nav/stack.js" />
-        <option value="$PROJECT_DIR$/src/pages/home/sences/Home.js" />
         <option value="$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/nav/stack.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/KeyChain.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/KeyChainExample.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/routeNames.js" />
+        <option value="$PROJECT_DIR$/src/rootRoute/Routes.js" />
+        <option value="$PROJECT_DIR$/src/pages/keyChain/nav/stack.js" />
+        <option value="$PROJECT_DIR$/src/pages/home/sences/Home.js" />
+        <option value="$PROJECT_DIR$/src/pages/keyChain/sence/KeyChain.js" />
       </list>
     </option>
   </component>
@@ -203,29 +251,6 @@
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
-              <item name="nav" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="biometrics" type="462c0819:PsiDirectoryNode" />
-              <item name="sence" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,6 +260,35 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
               <item name="sences" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="keyChain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="keyChain" type="462c0819:PsiDirectoryNode" />
+              <item name="nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="keyChain" type="462c0819:PsiDirectoryNode" />
+              <item name="sence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rootRoute" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,14 +308,15 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Sences/home/sences" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/keyChain/sence" />
+      <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/assets/images/public" />
       <recent name="$PROJECT_DIR$/android" />
-      <recent name="$PROJECT_DIR$/src/pages" />
       <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Sences/home/sences" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -287,17 +342,20 @@
       <option name="presentableId" value="Default" />
       <updated>1611540269649</updated>
       <workItem from="1611540270775" duration="15374000" />
-      <workItem from="1611632099179" duration="4936000" />
+      <workItem from="1611632099179" duration="6988000" />
+      <workItem from="1611719005163" duration="515000" />
+      <workItem from="1611722009082" duration="3933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20310000" />
+    <option name="totallyTimeSpent" value="26810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="32" width="1441" height="974" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -311,7 +369,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32906976" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32906976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,6 +380,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/keyChain/sence/KeyChainExample.js</url>
+          <line>191</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Sences/home/nav/Nav.js" />
@@ -352,44 +422,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="15" column="14" lean-forward="true" selection-end-line="33" />
-          <folding>
-            <element signature="e#21#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="42" column="22" lean-forward="true" selection-end-line="54" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/rootRoute/optionHeader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="86" column="36" selection-start-line="86" selection-start-column="36" selection-end-line="86" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#40#71#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,17 +453,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/biometrics/nav/stack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/nav/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="158" selection-start-line="28" selection-start-column="158" selection-end-line="28" selection-end-column="158" />
+          <folding>
+            <element signature="e#21#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/KeyChainExample.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="358" column="6" lean-forward="true" selection-start-line="358" selection-start-column="6" selection-end-line="358" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/routeNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/sences/KeyChain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1496#2139#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rootRoute/Routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#40#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/keyChain/nav/stack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
             <element signature="e#21#47#0" expanded="true" />
           </folding>
@@ -436,32 +541,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/sences/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="1062">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/Biometric.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/keyChain/sence/KeyChainExample.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="97" column="5" lean-forward="true" selection-start-line="97" selection-start-column="5" selection-end-line="97" selection-end-column="5" />
+        <state relative-caret-position="104">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="32" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#10#58#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#2376#3095#0" />
+            <element signature="e#3115#3449#0" />
+            <element signature="e#3477#4087#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/biometrics/sence/FingerScanner.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/keyChain/sence/KeyChain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="101" column="11" selection-start-line="101" selection-start-column="11" selection-end-line="101" selection-end-column="11" />
+        <state relative-caret-position="353">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#10#58#0" expanded="true" />
+            <element signature="e#10#59#0" expanded="true" />
+            <element signature="e#1712#2355#0" />
+            <element signature="e#2597#3240#0" />
+            <element signature="e#4652#6057#0" />
           </folding>
         </state>
       </provider>
